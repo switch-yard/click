@@ -46,7 +46,7 @@ Hello, Click!
 
 ## Working with agents
 
-Changes from coding agents reach this repository through a merge queue. Each change is tested together with main and with the other changes waiting beside it before it goes in. A change whose tests fail is sent back to its agent, so main only ever holds work that passed.
+Changes from coding agents reach this repository through a merge queue. Each change is tested together with main and with the other changes waiting beside it before it goes in. A change whose tests fail is sent back to its agent, so main only ever holds work that passed. The task's page says why a change was sent back.
 
 ## Donate
 
