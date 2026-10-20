@@ -44,6 +44,10 @@ Hello, Click!
 ```
 
 
+## Working with agents
+
+Changes from coding agents reach this repository through a merge queue. Each change is tested together with main and with the other changes waiting beside it before it goes in. A change whose tests fail is sent back to its agent, so main only ever holds work that passed.
+
 ## Donate
 
 The Pallets organization develops and supports Click and other popular
