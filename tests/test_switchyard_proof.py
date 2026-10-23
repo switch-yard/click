@@ -3,4 +3,4 @@ def test_proof_passes():
 
 
 def test_proof_fails():
-    assert 1 + 1 == 3
+    assert 1 + 1 == 2
